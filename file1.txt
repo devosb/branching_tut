@@ -4,3 +4,4 @@ line 2 - Modify this line in feature1 branch
 line 3 - Modify this line in master branch
 
 line 4 - Modify this line in different ways in both feature1 and master branches
+line 5 - changelog
