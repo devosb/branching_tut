@@ -31,3 +31,7 @@
 ## Clean up the uneeded branch
 17. Delete local branch `feature1`
 18. Push the branch deletion
+
+## Make a release
+19. Tag repo
+20. Push tag
