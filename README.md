@@ -34,4 +34,4 @@
 
 ## Make a release
 19. Tag repo
-20. Push tag
+20. Push commit and tag
