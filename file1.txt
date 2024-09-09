@@ -7,3 +7,4 @@ line 4 - Modify this line in different ways in both feature1 and master branches
 line 5 - changelog
 line 6 - GHA
 line 7 - tag
+line 8 - tag auto push
